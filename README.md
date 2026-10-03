@@ -1,3 +1,4 @@
+(currently not uploaded as im still finalizing it. as soon as its in a final working state i'll update to remove this line and have a release)
 farrrrrrrrrr too lazy to make my own read me / translate sky crafts to this so heres just a tldr 
 
 
