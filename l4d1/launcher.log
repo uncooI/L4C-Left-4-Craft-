@@ -1,0 +1,46 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261003004623
+Username: DESKTOP-CFBM\gethe
+RunAs User: DESKTOP-CFBM\gethe
+Configuration Name: 
+Machine: DESKTOP-CFBM (Microsoft Windows NT 10.0.19045.0)
+Host Application: powershell.exe -NoProfile -ExecutionPolicy Bypass -STA -File D:\gpt stuf\Left4Craft\l4d1\scripts\launch-offline.ps1
+Process ID: 18228
+PSVersion: 5.1.19041.6456
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.6456
+BuildVersion: 10.0.19041.6456
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Java 25 configured: D:\gpt stuf\Left4Craft\l4d1\Minecraft\Java25\bin\java.exe
+Plugin loading config: D:\SteamLibrary\steamapps\common\left 4 dead\left4dead\cfg\left4craft_boot.cfg
+Plugin file verified: D:/SteamLibrary/steamapps/common/left 4 dead/left4dead/addons/left4craft.dll
+Game launch arguments: -steam -insecure -novid -console -condebug +sv_lan 1 +exec left4craft_boot +map l4d_hospital01_apartment singleplayer
+Starting offline single player. F8 requests Minecraft control; allow time for collision streaming. F9 returns native control.
+Steam Offline Mode is optional for this launcher; use it if you want Steam itself disconnected.
+L4D1 launch requested (process 6816).
+Minecraft launcher started (process 6796); the Minecraft window and game log are now visible for startup testing.
+Allow Minecraft to finish starting. Focus L4D1, close its console and press F8 only after the bridge loads.
+Checking the native plugin startup log (up to 45 seconds)...
+Native plugin log: D:\SteamLibrary\steamapps\common\left 4 dead\left4craft.log
+[309899546] F8: takeover requested
+[309902015] F8: takeover disabled
+[309903250] F8: takeover requested
+[309921531] F8: takeover requested
+[309923156] F8: takeover disabled
+[309924656] F8: takeover requested
+[310218031] Unloaded.
+[310657671] Left4Craft 0.2 experimental loaded. F8 requests takeover, F9 returns native control.
+[310738343] F8: takeover requested
+[310741281] Minecraft world rendered at Source SceneEnd (before viewmodel/postprocessing); arrows enabled.
+[310783953] Unloaded.
+[311185703] Left4Craft 0.2 experimental loaded. F8 requests takeover, F9 returns native control.
+This window can be closed. Startup messages are saved to D:\gpt stuf\Left4Craft\l4d1\launcher.log
+**********************
+Windows PowerShell transcript end
+End time: 20261003004639
+**********************

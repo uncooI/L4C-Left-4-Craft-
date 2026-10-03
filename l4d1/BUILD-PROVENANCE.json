@@ -1,0 +1,35 @@
+{
+  "revision": "visual-v2",
+  "native_sha256": "1ca6603abcb9d8e32bb340afb206cb0bdf6901773dd661445ac0b93d724666dd",
+  "architecture": "PE32 i386 MSVC C++ ABI",
+  "exports": [
+    "CreateInterface"
+  ],
+  "imports": [
+    "tier0.dll",
+    "ADVAPI32.dll",
+    "d3d9.dll",
+    "KERNEL32.dll",
+    "msvcrt.dll",
+    "SHELL32.dll",
+    "USER32.dll"
+  ],
+  "runtime_tested": false,
+  "checks": [
+    "compiled native DLL",
+    "protocol layout and coordinate tests",
+    "motion and widescreen FOV tests",
+    "ZIP CRC and payload equality"
+  ],
+  "changes": [
+    "restore EndScene world drawing",
+    "remove SceneEnd viewport gate",
+    "private depth prepass using solid BSP triangles",
+    "exclude invisible player clips from occlusion",
+    "retain lighting/camera/viewmodel/arrow changes"
+  ],
+  "limitations": [
+    "static BSP occlusion only",
+    "Windows scripts and rendering require in-game check"
+  ]
+}
