@@ -1,5 +1,5 @@
-!speed bridging in l4d!?
-<img width="110" height="96" alt="gif" src="https://github.com/user-attachments/assets/f128bba9-b907-40ed-aa24-25ecee3b4c3e" />
+**speed bridging in l4d!?**
+<img width="94" height="94" alt="2026-10-04 19-03-40" src="https://github.com/user-attachments/assets/d40a7ceb-8438-4cf8-94f4-e3c7c6a300e7" />
 
 (currently not uploaded as im still finalizing it. as soon as its in a final working state i'll update to remove this line and have a release)
 farrrrrrrrrr too lazy to make my own read me / translate sky crafts to this so heres just a tldr 
